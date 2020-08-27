@@ -1,6 +1,10 @@
 # Heroku-Streamlit-Setup (hss)
 
-This is a symple library to help you put your streamlit webapp in production
+This is a symple cli library to help you put your streamlit webapp in production.
+
+This lib will soon be hosted on pypi.org and I'll also write a article on Medium explaining it (:
+
+If you have any problem with it, please open an issue and I'll get back to you.
 
 ### Documentation
 <pre>
