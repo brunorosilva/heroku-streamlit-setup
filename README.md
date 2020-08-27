@@ -6,6 +6,11 @@ This lib will soon be hosted on pypi.org and I'll also write a article on Medium
 
 If you have any problem with it, please open an issue and I'll get back to you.
 
+### Why is this package important and what do I need to use it?
+From what I've seen there's not lots of documentation about putting streamlit webapps into production, trust me I've suffered.
+
+You just need a Free [Heroku](https://www.heroku.com/) Account, a Github account and a [Streamlit](https://www.streamlit.io/) webapp you want to share with the world.
+
 ### Documentation
 <pre>
 $ hss --help
