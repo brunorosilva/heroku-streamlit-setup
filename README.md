@@ -2,9 +2,16 @@
 
 This is a simple cli (command line interface) library to help you put your streamlit webapp in production.
 
-This lib will soon be hosted on pypi.org and I'll also write a article on Medium explaining it (:
+I'll soon write a article on Medium explaining it (:
 
 If you have any problem with it, please open an issue and I'll get back to you.
+
+## Install with pip
+
+This lib is hosted on pypi.org 
+<pre>
+pip install hss
+</pre>
 
 ## Why is this package important and what do I need to use it?
 From what I've seen there's not lots of documentation about putting streamlit webapps into production, trust me I've suffered. And if this is your first experience with Heroku, this will be very very helpfull.
