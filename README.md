@@ -20,8 +20,8 @@ You just need a Free [Heroku](https://www.heroku.com/) Account, a Github account
 
 ## The simplest way to use it
 
-1. After the requirements.txt, Procfile and the setup.sh file are created, just upload them into your project's repository
-2. Create a new app on the Heroku website and select <b>connect to Github</b> and select your desired repo and click Deploy
+1. After the requirements.txt, Procfile and the setup.sh file are created, upload them into your project's repository
+2. Create a new app using Heroku and select <b>connect to Github</b> and select your desired repo and click Deploy
 
 ## Documentation
 <pre>
