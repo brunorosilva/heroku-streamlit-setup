@@ -18,6 +18,11 @@ From what I've seen there's not lots of documentation about putting streamlit we
 
 You just need a Free [Heroku](https://www.heroku.com/) Account, a Github account and a [Streamlit](https://www.streamlit.io/) webapp you want to share with the world.
 
+## The simplest way to use it
+
+1. After the requirements.txt, Procfile and the setup.sh file are created, just upload them into your project's repository
+2. Create a new app on the Heroku website and select <b>connect to Github</b> and select your desired repo and click Deploy
+
 ## Documentation
 <pre>
 $ hss --help
