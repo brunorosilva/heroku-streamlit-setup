@@ -53,7 +53,7 @@ def make_setup(args):
     f.writelines(
     ['mkdir -p ~/.streamlit/\n',
     'echo "[general]\n',
-    'email = \"' + str(email) + '\"\n',
+    'email = \\\"' + str(email) + '\\\"\n',
     '" > ~/.streamlit/credentials.toml\n',
     'echo "[server]\n',
     'headless = true\n',
