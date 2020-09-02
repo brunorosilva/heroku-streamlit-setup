@@ -29,7 +29,7 @@ $ hss --help
 
 
 Usage:
-    get_requirements.py [options] [&lt;appname&gt;] [&lt;path&gt;] [&lt;email&gt;]
+    hss [options] [&lt;appname&gt;] [&lt;path&gt;] [&lt;email&gt;]
 
 Arguments:
     &lt;appname&gt;             The app filename (with or without .py).
